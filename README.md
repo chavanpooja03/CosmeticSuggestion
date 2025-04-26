@@ -11,14 +11,7 @@ The web application was written in React-Flask.
 
 [Read more...](https://docs.google.com/presentation/d/1vVo3oRQ1KYGFHyV3YhPADTzodDOFcXKmd5sFNfemASo/edit?usp=sharing)
 
-## Team Members
-[Sri Sylamsh Amrutakavi](https://github.com/Sylamsh) 
 
-[Gaurav Bhattacharjee](https://github.com/guilefoylegaurav)
-
-[Prachurya Nath](https://github.com/prachuryanath)
-
-[Mondeep Prakash](https://github.com/legitmxn)
 
 # Web Application
 
