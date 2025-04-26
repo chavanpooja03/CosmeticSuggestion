@@ -1,13 +1,6 @@
 
 
 
-# Team Name : Randon
-**Project Name** : Skyn 
-
-**Chosen Theme** : Beautify
-
-**Myntra HackerRamp: Campus Edition 2021**
-
 
 ## Description
 <!-- A virtual **skincare advisor** that uses **Machine Learning** to analyse user's selfie and offer personalised products **recommendation** based on the skin metrics inferred. -->
